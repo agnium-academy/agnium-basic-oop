@@ -1,7 +1,7 @@
 # agnium-oop-basic
 Agnium Course | Basics of Object Oriented Programming (OOP) with Java
 
-This README.md will take you through the curriculum and the structure of the learning course and the learning material. 
+This README.md will take you through the curriculum for Object Orientd Programming and the structure of the learning course and the learning material. All the associated learning material will be found in the repository.
 
 | Subject        | Description           | Exercise  | Duration |
 |:------------- |:-------------|:-----|:------------|
