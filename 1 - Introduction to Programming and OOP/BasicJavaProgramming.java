@@ -1,4 +1,4 @@
-public class HelloWorld {
+class HelloWorld {
   public static void main(String args[]) {
     //Output using System.out.println
     System.out.println("Hello, world!");
