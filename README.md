@@ -5,7 +5,7 @@ This README.md will take you through the curriculum for Object Orientd Programmi
 
 | Subject        | Description           | Exercise  | Duration |
 |:------------- |:-------------|:-----|:------------|
-| Introduction to programming, and OOP | <ul><li>Basic programming, syntax and operations. </li><li>Introducing classes and objects. </li><li>OOP's relation to the real world.</li></ul> | Pick up an existing system/app/web, and break it down to find out what classes we may need. Mention all fundamental properties and functions| 2 |
+| Introduction to programming, and OOP | <ul><li>Basic programming, syntax and operations. </li><li>Introducing functions, classes and objects. </li><li>OOP's relation to the real world.</li></ul> | Pick up an existing system/app/web, and break it down to find out what classes we may need. Mention all fundamental properties and functions| 2 |
 | Classes	| <ul><li>Learn about classes in detail. </li><li>Class signatures, methods/functions, variables/data members, constructors and parameters. </li></ul>| Convert the previous exercise to become Java class format, complete with all fields and functions. |4|
 |<strong>Review Part 1</strong>|||2|
 |Inheritance |<ul><li> What is inheritance? </li><li>Different types of inheritance. </li><li>Inheritance and the real world. </li></ul>| TBA	|4 |
@@ -13,4 +13,3 @@ This README.md will take you through the curriculum for Object Orientd Programmi
 |<strong>Review Part 2</strong>|||2|
 |Reference	| <ul><li>Learn about memory consumption once instance has been defined. </li></ul>| TBA | 4|
 |<strong>Final Test</strong>||||
-
