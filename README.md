@@ -13,3 +13,5 @@ This README.md will take you through the curriculum for Object Oriented Programm
 |<strong>Review Part 2</strong>|||2|
 |Reference	| <ul><li>Learn about memory consumption once instance has been defined. </li></ul>| TBA | 4|
 |<strong>Final Test</strong>||||
+
+The learning material associated with every section is in separate directories in the repository. Inside the directories you will find the learning material markdown files marked in a `x.y` manner. `x` here refers to the section number and `y` is the subsection. Like, `1.2`
