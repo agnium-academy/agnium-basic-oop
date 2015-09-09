@@ -15,3 +15,5 @@ This README.md will take you through the curriculum for Object Oriented Programm
 |<strong>Final Test</strong>||||
 
 The learning material associated with every section is in separate directories in the repository. Inside the directories you will find the learning material markdown files marked in a `x.y` manner. `x` here refers to the section number and `y` is the subsection. Like, `1.2`
+
+Please report any [issues](https://github.com/agnium/agnium-basic-oop/issues). And, feel free to improve the learning material by issuing pull requests.
